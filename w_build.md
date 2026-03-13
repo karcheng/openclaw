@@ -1,0 +1,1 @@
+This conversation with AI Studio has a lot of info concerning openClaw build. I should copy the file from google drive and place it here: https://aistudio.google.com/prompts/1D66hkAxrVbz0Pg9WLnL4eos-VpaZfrcGP
